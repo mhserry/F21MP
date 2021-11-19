@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BOSS", "..\..\BOSS\VisualSt
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StarterBot", "StarterBot.vcxproj", "{B2D2AD6C-D98B-42D0-8E4B-3C79D9DB27B7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StrategyAdapterLib", "..\StrategyAdapterLib\StrategyAdapterLib.vcxproj", "{E780B65F-247B-4B12-B744-1E8831880A71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Itanium = Debug|Itanium
@@ -59,6 +61,16 @@ Global
 		{B2D2AD6C-D98B-42D0-8E4B-3C79D9DB27B7}.Release|Win32.ActiveCfg = Release|Win32
 		{B2D2AD6C-D98B-42D0-8E4B-3C79D9DB27B7}.Release|Win32.Build.0 = Release|Win32
 		{B2D2AD6C-D98B-42D0-8E4B-3C79D9DB27B7}.Release|x64.ActiveCfg = Release|Win32
+		{E780B65F-247B-4B12-B744-1E8831880A71}.Debug|Itanium.ActiveCfg = Debug|Win32
+		{E780B65F-247B-4B12-B744-1E8831880A71}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E780B65F-247B-4B12-B744-1E8831880A71}.Debug|Win32.Build.0 = Debug|Win32
+		{E780B65F-247B-4B12-B744-1E8831880A71}.Debug|x64.ActiveCfg = Debug|x64
+		{E780B65F-247B-4B12-B744-1E8831880A71}.Debug|x64.Build.0 = Debug|x64
+		{E780B65F-247B-4B12-B744-1E8831880A71}.Release|Itanium.ActiveCfg = Release|Win32
+		{E780B65F-247B-4B12-B744-1E8831880A71}.Release|Win32.ActiveCfg = Release|Win32
+		{E780B65F-247B-4B12-B744-1E8831880A71}.Release|Win32.Build.0 = Release|Win32
+		{E780B65F-247B-4B12-B744-1E8831880A71}.Release|x64.ActiveCfg = Release|x64
+		{E780B65F-247B-4B12-B744-1E8831880A71}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

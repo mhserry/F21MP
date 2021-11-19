@@ -207,6 +207,11 @@
     <ClInclude Include="..\source\WorkerData.h" />
     <ClInclude Include="..\source\WorkerManager.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StrategyAdapterLib\StrategyAdapterLib.vcxproj">
+      <Project>{e780b65f-247b-4b12-b744-1e8831880a71}</Project>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
