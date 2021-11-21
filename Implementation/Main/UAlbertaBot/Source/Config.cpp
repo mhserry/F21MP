@@ -17,7 +17,7 @@ namespace Config
 
     namespace Strategy
     {
-        std::string ProtossStrategyName     = "Protoss_ZealotRush";
+        std::string ProtossStrategyName     = "Protoss_DragoonRush";
         std::string TerranStrategyName      = "Terran_MarineRush";
         std::string ZergStrategyName        = "Zerg_3HatchMuta";
         std::string StrategyName            = "Protoss_ZealotRush";

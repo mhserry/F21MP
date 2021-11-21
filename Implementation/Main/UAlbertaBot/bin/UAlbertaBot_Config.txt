@@ -8,7 +8,7 @@
         
     "BWAPI" : 
     {
-        "SetLocalSpeed"             : 0,
+        "SetLocalSpeed"             : 1,
         "SetFrameSkip"              : 0,
         "UserInput"                 : true,
         "CompleteMapInformation"    : false
@@ -80,7 +80,7 @@
     
     "Strategy" :
     {
-        "Protoss"                   : "Protoss_ZealotRush",
+        "Protoss"                   : "Protoss_DTRush",
         "Terran"                    : "Terran_MarineRush",
         "Zerg"                      : "Zerg_ZerglingRush",
         
