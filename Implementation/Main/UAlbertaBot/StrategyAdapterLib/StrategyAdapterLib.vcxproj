@@ -160,6 +160,11 @@
   <ItemGroup>
     <ClInclude Include="StrategyAdaptation.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\VisualStudio\UAlbertaBot.vcxproj">
+      <Project>{2e63ae74-758a-4607-9de4-d28e814a6e13}</Project>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
